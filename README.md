@@ -7,4 +7,9 @@ while exploring the Base ecosystem and community roles.
 - Learn Base basics and ecosystem tools
 - Track daily progress with notes
 - Keep role/badge requirements documented
+## Repository Structure
+
+- `docs/` — documentation and guides
+- `notes/` — daily activity logs
+- `scripts/` — helper scripts and utilities
 
