@@ -22,3 +22,7 @@ and activity logs stored in the notes folder.
 - `scripts/hello_base.sh` — quick sanity check script
 - `scripts/quick_log.py` — prints a simple daily log
 - `scripts/config.example.json` — example config structure
+## Troubleshooting
+
+If something looks missing on GitHub, refresh the page.
+For scripts, run them locally after cloning the repo.
