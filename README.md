@@ -30,3 +30,7 @@ For scripts, run them locally after cloning the repo.
 
 Small updates are expected frequently
 to keep documentation up to date.
+## Status
+
+This repository is under active development
+with small daily improvements.
