@@ -10,3 +10,6 @@ tg# Changelog
 - Added simple scripts (bash/python)
 - Documented scripts in README
 - Continued daily notes
+## Day 4
+- Expanded docs and notes
+- Continued maintenance updates
