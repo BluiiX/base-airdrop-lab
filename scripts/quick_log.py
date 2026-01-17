@@ -1,6 +1,14 @@
 from datetime import date
 
-print("Base Airdrop Lab - Quick Log")
-print("Date:", date.today().isoformat())
-print("- Did a small repo update today")
-print("- Logged progress in notes/")
+today = date.today().isoformat()
+
+lines = [
+    "Base Airdrop Lab - Quick Log",
+    f"Date: {today}",
+    "",
+    "Done:",
+    "- Small repo update",
+    "- Progress logged in notes/",
+]
+
+print("\n".join(lines))
