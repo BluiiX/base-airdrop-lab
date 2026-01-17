@@ -11,3 +11,6 @@ performed while exploring Base.
 
 Always double-check transactions
 and avoid interacting with unknown contracts.
+## Notes
+
+This list will evolve as more onchain actions are tested.
