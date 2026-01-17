@@ -8,3 +8,6 @@ This doc collects high-level notes and references.
 - **L2**: Layer 2 scaling network
 - **Onchain**: actions recorded on a blockchain
 - **Airdrop**: token distribution to early participants
+## Notes
+
+This repo focuses on consistent small updates and learning logs.
