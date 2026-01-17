@@ -7,3 +7,7 @@ performed while exploring Base.
 - Wallet interactions
 - Smart contract calls
 - Token transfers
+## Safety Notes
+
+Always double-check transactions
+and avoid interacting with unknown contracts.
