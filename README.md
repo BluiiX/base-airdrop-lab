@@ -13,3 +13,7 @@ while exploring the Base ecosystem and community roles.
 - `notes/` — daily activity logs
 - `scripts/` — helper scripts and utilities
 
+## Daily Workflow
+
+Each day includes small documentation updates
+and activity logs stored in the notes folder.
