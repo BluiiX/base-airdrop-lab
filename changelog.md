@@ -6,3 +6,7 @@ tg# Changelog
 ## Day 2
 - Continued documentation
 - Added daily notes and structure
+## Day 3
+- Added simple scripts (bash/python)
+- Documented scripts in README
+- Continued daily notes
