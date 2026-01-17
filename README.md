@@ -26,3 +26,7 @@ and activity logs stored in the notes folder.
 
 If something looks missing on GitHub, refresh the page.
 For scripts, run them locally after cloning the repo.
+## Maintenance
+
+Small updates are expected frequently
+to keep documentation up to date.
