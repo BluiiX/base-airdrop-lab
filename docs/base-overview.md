@@ -1,6 +1,7 @@
 # Base Overview
 
-Base is an Ethereum Layer 2.
+Base is an Ethereum Layer 2 network focused on scalability.
+
 This doc collects high-level notes and references.
 ## Glossary
 
