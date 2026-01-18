@@ -34,3 +34,6 @@ to keep documentation up to date.
 
 This repository is under active development
 with small daily improvements.
+## Philosophy
+
+Small and frequent updates help build long-term consistency.
