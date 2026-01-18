@@ -11,3 +11,6 @@ This doc collects high-level notes and references.
 ## Notes
 
 This repo focuses on consistent small updates and learning logs.
+## Focus
+
+This repo focuses on consistency over complexity.
