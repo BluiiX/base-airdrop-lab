@@ -1,4 +1,5 @@
 from datetime import date
+# Simple helper script for daily logging
 
 today = date.today().isoformat()
 
