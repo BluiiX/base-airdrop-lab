@@ -7,3 +7,6 @@ posts, and engagement on Base.
 - Check Base updates
 - Engage with community posts
 - Log activity in notes
+## Summary
+
+Farcaster activity complements onchain participation.
