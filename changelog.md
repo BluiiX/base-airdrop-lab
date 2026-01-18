@@ -13,3 +13,6 @@ tg# Changelog
 ## Day 4
 - Expanded docs and notes
 - Continued maintenance updates
+## Day 5
+- Continued documentation updates
+- Minor script and config improvements
