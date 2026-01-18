@@ -2,5 +2,7 @@
   "project": "base-airdrop-lab",
   "owner": "your-github-username",
   "notes_folder": "notes",
-  "docs_folder": "docs"
+  "docs_folder": "docs",
+  "scripts_folder": "scripts"
 }
+
