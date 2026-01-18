@@ -11,3 +11,6 @@ community participation and onchain activity.
 - Follow Base-related accounts
 - Participate in discussions
 - Maintain consistent activity
+## Notes
+
+Roles may evolve as the ecosystem grows.
